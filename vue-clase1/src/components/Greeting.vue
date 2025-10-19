@@ -3,7 +3,7 @@
     <h1>Hola {{ nombre }}</h1>
     <p>La fecha desde este mismo componente es: {{ fecha }}</p>
     <p>Contador: {{ contador }}</p>
-    <button @click="incrementar">+ Sumar {{ contador}}</button>
+    <button @click="incrementar">+ Sumar</button>
   </div>
 </template>
 
@@ -20,7 +20,7 @@
 
   function incrementar() {
     contador.value++
-    console.log(contador.value)
+    
   }
 </script>
 
