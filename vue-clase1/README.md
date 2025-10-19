@@ -1,5 +1,6 @@
 # vue-clase1
 
+Este proyecto es para actualizar mis conocimientos en vue 2->3
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
